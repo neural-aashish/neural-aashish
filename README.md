@@ -57,12 +57,7 @@
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neural-aashish&layout=compact&theme=tokyonight"/>
-</p>
-
+## 📊 Most Used Languages <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,react,express" /> <br><br> <sub>HTML • CSS • JavaScript • Python • React • Express</sub> </p>
 ---
 
 ## 🏆 GitHub Trophies
