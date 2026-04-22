@@ -1,4 +1,4 @@
-<h1 align="center">Ashish here!!</h1>
+<h1 align="center">Aashish here!!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&lines=AI+Developer;MERN+Stack+Dev;Future+Engineer;Building+Cool+Stuff" />
@@ -6,7 +6,7 @@
 
 ---
 
-## Heyyyyyy,This is Aashish
+## Heyyy,This is Aashish
 
 ---
 
@@ -14,7 +14,6 @@
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-> initializing ashish...
 
 [ role ]      → AI + Full Stack Developer  
 [ focus ]     → building clean, real-world systems  
@@ -22,7 +21,6 @@
 [ mindset ]   → consistency > noise  
 [ status ]    → learning, building, repeating  
 
-> system.out.println("stay low. keep building.");
 ---
 
 ## 🌐 Connect with me
@@ -93,9 +91,25 @@
 
 ## 🚀 Top Projects
 
-- 🔥 AI Fruit Ninja Game  
-- 🌐 Portfolio Website  
-- 🤖 AI Chatbot  
+<p align="center">
+
+<a href="https://github.com/neural-aashish/fruit-ninja">
+  🔥 <b>AI Fruit Ninja Game</b>
+</a><br>
+<sub>Hand tracking based game using OpenCV & MediaPipe</sub>
+
+<br><br>
+
+<a href="https://github.com/neural-aashish/pose-coach">
+  🧍 <b>Pose Coach</b>
+</a><br>
+<sub>AI posture correction system using computer vision</sub>
+
+</p>
+
+---
+```
+
 
 ---
 
