@@ -94,22 +94,24 @@
 <p align="center">
 
 <a href="https://github.com/neural-aashish/fruit-ninja">
-  🔥 <b>AI Fruit Ninja Game</b>
-</a><br>
-<sub>Hand tracking based game using OpenCV & MediaPipe</sub>
+  <img src="https://img.shields.io/badge/🔥_AI_Fruit_Ninja_Game-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br>
+
+<sub>Hand tracking game using OpenCV & MediaPipe</sub>
 
 <br><br>
 
 <a href="https://github.com/neural-aashish/pose-coach">
-  🧍 <b>Pose Coach</b>
-</a><br>
+  <img src="https://img.shields.io/badge/🧍_Pose_Coach-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br>
+
 <sub>AI posture correction system using computer vision</sub>
 
 </p>
-
----
-```
-
 
 ---
 
