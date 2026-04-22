@@ -74,15 +74,6 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
----
-
-## ☕ Support Me
-
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Buy%20Me%20Coffee-yellow?style=for-the-badge"/></a>
-</p>
-
----
 
 ## 🚀 Top Projects
 
