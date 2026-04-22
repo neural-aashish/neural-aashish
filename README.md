@@ -91,29 +91,39 @@
 
 ## 🚀 Top Projects
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
 
 <a href="https://github.com/neural-aashish/fruit-ninja">
   <img src="https://img.shields.io/badge/🔥_AI_Fruit_Ninja_Game-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br>
+<br><br>
 
 <sub>Hand tracking game using OpenCV & MediaPipe</sub>
 
-<br><br>
+</td>
+</tr>
+
+<tr>
+<td align="center">
 
 <a href="https://github.com/neural-aashish/pose-coach">
   <img src="https://img.shields.io/badge/🧍_Pose_Coach-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br>
+<br><br>
 
 <sub>AI posture correction system using computer vision</sub>
 
-</p>
+</td>
+</tr>
+
+</table>
 
 ---
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=neural-aashish&theme=tokyo-night"/>
