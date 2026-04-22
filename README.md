@@ -37,16 +37,16 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=neural-aashish&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Streak
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=neural-aashish&theme=tokyonight)
 
 ---
 
 ## 👀 Profile Views
 
-![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=green)
+![Views](https://komarev.com/ghpvc/?username=neural-aashish&color=green)
