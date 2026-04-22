@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Ashish here!</h1>
+<h1 align="center">Ashish here!!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&lines=AI+Developer;MERN+Stack+Dev;Future+Engineer;Building+Cool+Stuff" />
@@ -6,27 +6,27 @@
 
 ---
 
-## 🙏 Namaste, I'm Ashish
+## Heyyyyyy,This is Aashish
 
 ---
 
-## 🌙 About Me
+##  About Me
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🚀 Started journey in Web + AI
-- 💻 MERN Stack Developer
-- 🤖 Learning AI/ML & Deep Learning
-- 🎯 Goal: 1 Crore Package
-- ⚡ I just start building
-
+name: Ashish  
+role: AI Developer | MERN Stack Developer  
+location: India 🇮🇳  
+focus: Building real-world AI + Web products  
+status: Building in public 🚀  
 ---
 
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/aashish-pandey-948b0536b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"></a>
+  <a href="pandeyaashish603@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge"></a>
+  <a href="https://www.instagram.com/retarded_dv/?hl=en"><img src="https://img.shields.io/badge/Instagram-voilet?style=for-the-badge"></a>
 </p>
 
 ---
