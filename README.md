@@ -98,3 +98,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=neural-aashish&theme=tokyo-night"/>
 </p>
+
+
+## 🐍 Contribution Snake
+
+![snake](https://github.com/neural-aashish/neural-aashish/blob/output/github-contribution-grid-snake.svg)
