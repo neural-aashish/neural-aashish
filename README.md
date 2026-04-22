@@ -10,15 +10,19 @@
 
 ---
 
-##  About Me
+## 🧠 About Me
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-name: Ashish  
-role: AI Developer | MERN Stack Developer  
-location: India 🇮🇳  
-focus: Building real-world AI + Web products  
-status: Building in public 🚀  
+> initializing ashish...
+
+[ role ]      → AI + Full Stack Developer  
+[ focus ]     → building clean, real-world systems  
+[ stack ]     → MERN • Python • AI  
+[ mindset ]   → consistency > noise  
+[ status ]    → learning, building, repeating  
+
+> system.out.println("stay low. keep building.");
 ---
 
 ## 🌐 Connect with me
