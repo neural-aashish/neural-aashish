@@ -5,10 +5,7 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<p align="left"> <a href="https://twitter.com/aashishpan13357" target="blank"><img src="https://img.shields.io/twitter/follow/aashishpan13357?logo=twitter&style=for-the-badge" alt="aashishpan13357" /></a> </p>
 
 ---
 
@@ -29,6 +26,14 @@ Quietly leveling up every day
 
 ---
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/aashishpan13357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aashishpan13357" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aashish-pandey-948b0536b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashish-pandey-948b0536b" height="30" width="40" /></a>
+<a href="https://instagram.com/retarded_dv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="retarded_dv" height="30" width="40" /></a>
+</p>
+
+---
 ## 🚀 Projects
 
 <p align="center">
@@ -40,7 +45,13 @@ Quietly leveling up every day
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=neural-aashish&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
