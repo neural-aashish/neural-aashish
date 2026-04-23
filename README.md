@@ -36,8 +36,13 @@ Constantly improving
 
 ### 🚀 Selected Deployments
 
-**[Fruit Ninja (Hand Tracking)](https://github.com/neural-aashish)** • **[Pose Coach AI](https://github.com/neural-aashish)**
-
+<a href="https://github.com/NeuralAashish">
+  <img src="https://img.shields.io/badge/FRUIT_NINJA-39FF14?style=for-the-badge&logo=opencv&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://github.com/NeuralAashish">
+  <img src="https://img.shields.io/badge/POSE_COACH_AI-39FF14?style=for-the-badge&logo=tensorflow&logoColor=black" />
+</a>
 ---
 
 ### 🐍 Neural Activity
