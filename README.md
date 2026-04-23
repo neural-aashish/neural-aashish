@@ -24,7 +24,7 @@ Quietly leveling up every day
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,express" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,express,javascript" />
 </p>
 
 ---
@@ -32,9 +32,9 @@ Quietly leveling up every day
 ## 🚀 Projects
 
 <p align="center">
-  <a href="https://github.com/yourusername/fruit-ninja">🍉 Fruit Ninja</a> •
-  <a href="https://github.com/yourusername/pose-coach">🧠 Pose Coach</a> •
-  <a href="https://github.com/yourusername">⚡ More</a>
+  <a href="https://github.com/neural-aashish/fruit-ninja"> Fruit Ninja</a> •
+  <a href="https://github.com/neural-aashish/pose-coach"> Pose Coach</a> •
+  
 </p>
 
 ---
@@ -48,5 +48,3 @@ Quietly leveling up every day
 <p align="center">
   ⚡ Stay low. Keep building.
 </p>
-
-```
