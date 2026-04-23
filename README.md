@@ -1,61 +1,51 @@
-<h1 align="center">Neural Aashish</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&width=600&lines=Building+the+Future;AI+%7C+Code+%7C+Clean+UI;Always+Learning+%E2%9A%A1" />
-</p>
+# Neural Aashish
+
+![Profile Views](https://komarev.com/ghpvc/?username=NeuralAashish&color=39FF14&style=flat-square)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Building+the+Future;AI+|+Code+|+Clean+UI;Always+Learning+⚡" alt="Typing Animation" />
 
 ---
-<p align="left"> <a href="https://twitter.com/aashishpan13357" target="blank"><img src="https://img.shields.io/twitter/follow/aashishpan13357?logo=twitter&style=for-the-badge" alt="aashishpan13357" /></a> </p>
+
+### ⚡ Dashboard Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=NeuralAashish&show_icons=true&theme=tokyonight&hide_border=true&title_color=39FF14&text_color=ffffff&icon_color=39FF14" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NeuralAashish&theme=tokyonight&hide_border=true&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakNum=39FF14" alt="GitHub Streak" />
+
+### 📊 Contribution Flow
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NeuralAashish&theme=tokyo-night&area=true&hide_border=true&color=39FF14" width="100%" alt="Activity Graph" />
 
 ---
 
-## 🧠 About Me
+### 🛸 System Overview
 
 Building things that feel like the future  
-AI • Code • Clean interfaces  
-Turning ideas into real, working systems  
-Quietly leveling up every day  
+AI, coding, clean interfaces  
+Turning ideas into real systems  
+Constantly improving
 
 ---
 
-## ⚡ Tech Stack
+### 🛠 Core Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,express,javascript" />
-</p>
+<img src="https://skillicons.dev/icons?i=py,js,html,css,react,express&theme=dark" alt="Skills" />
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aashishpan13357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aashishpan13357" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aashish-pandey-948b0536b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashish-pandey-948b0536b" height="30" width="40" /></a>
-<a href="https://instagram.com/retarded_dv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="retarded_dv" height="30" width="40" /></a>
-</p>
+### 🚀 Selected Deployments
 
----
-## 🚀 Projects
-
-<p align="center">
-  <a href="https://github.com/neural-aashish/fruit-ninja"> Fruit Ninja</a> •
-  <a href="https://github.com/neural-aashish/pose-coach"> Pose Coach</a> •
-  
-</p>
+**[Fruit Ninja (Hand Tracking)](https://github.com/NeuralAashish)** • **[Pose Coach AI](https://github.com/NeuralAashish)**
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=neural-aashish&theme=tokyonight&hide_border=true" />
-</p>
+### 🐍 Neural Activity
+
+<img src="https://raw.githubusercontent.com/NeuralAashish/NeuralAashish/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+**Stay low. Keep building.**
 
----
-
-<p align="center">
-  ⚡ Stay low. Keep building.
-</p>
+</div>
