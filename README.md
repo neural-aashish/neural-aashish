@@ -1,120 +1,139 @@
-<h1 align="center">Aashish here!!</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&lines=AI+Developer;MERN+Stack+Dev;Future+Engineer;Building+Cool+Stuff" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>GitHub Contribution Dashboard</title>
+<style>
+body {
+  background: #0d1117;
+  color: #c9d1d9;
+  font-family: Arial;
+  text-align: center;
+}
 
----
+.container {
+  width: 90%;
+  margin: auto;
+}
 
-## Heyyy,This is Aashish
+h1 {
+  margin: 20px;
+  color: #58a6ff;
+}
 
----
+/* GRID */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(53, 12px);
+  gap: 4px;
+  justify-content: center;
+}
 
-## 🧠 About Me
+.cell {
+  width: 12px;
+  height: 12px;
+  border-radius: 2px;
+  background: #161b22;
+}
 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+/* COLORS */
+.lvl-0 { background: #161b22; }
+.lvl-1 { background: #0e4429; }
+.lvl-2 { background: #006d32; }
+.lvl-3 { background: #26a641; }
+.lvl-4 { background: #39d353; }
 
+/* STATS */
+.stats {
+  display: flex;
+  justify-content: space-around;
+  margin: 30px 0;
+  padding: 20px;
+  border: 1px solid #30363d;
+  border-radius: 10px;
+}
 
-[ role ]      → AI + Full Stack Developer  
-[ focus ]     → building clean, real-world systems  
-[ stack ]     → MERN • Python • AI  
-[ mindset ]   → consistency > noise  
-[ status ]    → learning, building, repeating  
+.card {
+  text-align: center;
+}
 
----
+.card h2 {
+  color: #58a6ff;
+}
 
-## 🌐 Connect with me
+</style>
+</head>
+<body>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aashish-pandey-948b0536b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"></a>
-  <a href="pandeyaashish603@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge"></a>
-  <a href="https://www.instagram.com/retarded_dv/?hl=en"><img src="https://img.shields.io/badge/Instagram-voilet?style=for-the-badge"></a>
-</p>
+<div class="container">
+  <h1>GitHub Contribution Dashboard</h1>
 
----
+  <div class="stats">
+    <div class="card">
+      <h2 id="total">0</h2>
+      <p>Total Contributions</p>
+    </div>
+    <div class="card">
+      <h2 id="streak">0</h2>
+      <p>Current Streak</p>
+    </div>
+    <div class="card">
+      <h2 id="maxStreak">0</h2>
+      <p>Longest Streak</p>
+    </div>
+  </div>
 
-## 🧰 Languages & Tools
+  <div class="grid" id="grid"></div>
+</div>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,c,cpp,git,github,vscode" />
-</p>
+<script>
+const username = "YOUR_USERNAME";
 
----
+fetch(`https://github-contributions-api.jogruber.de/v4/${username}`)
+.then(res => res.json())
+.then(data => {
+  const weeks = data.contributions;
+  const grid = document.getElementById("grid");
 
-## 📊 GitHub Stats
+  let total = 0;
+  let streak = 0;
+  let maxStreak = 0;
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=neural-aashish&show_icons=true&theme=tokyonight"/>
-</p>
+  let currentStreak = 0;
 
----
+  weeks.forEach(week => {
+    week.forEach(day => {
+      total += day.count;
 
-## 🔥 Streak Stats
+      const div = document.createElement("div");
+      div.classList.add("cell");
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=neural-aashish&theme=tokyonight"/>
-</p>
+      let lvl = 0;
+      if (day.count > 0) lvl = 1;
+      if (day.count > 3) lvl = 2;
+      if (day.count > 6) lvl = 3;
+      if (day.count > 10) lvl = 4;
 
----
+      div.classList.add("lvl-" + lvl);
+      grid.appendChild(div);
 
-## 📊 Most Used Languages <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,react,express" /> <br><br> <sub>HTML • CSS • JavaScript • Python • React • Express</sub> </p>
----
+      // streak logic
+      if (day.count > 0) {
+        currentStreak++;
+        if (currentStreak > maxStreak) maxStreak = currentStreak;
+      } else {
+        currentStreak = 0;
+      }
+    });
+  });
 
-## 🏆 GitHub Trophies
+  streak = currentStreak;
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=neural-aashish&theme=tokyonight"/>
-</p>
+  document.getElementById("total").innerText = total;
+  document.getElementById("streak").innerText = streak;
+  document.getElementById("maxStreak").innerText = maxStreak;
+});
+</script>
 
----
-
-## 💬 Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
-
-## 🚀 Top Projects
-
-<table align="center">
-<tr>
-<td align="center">
-
-<a href="https://github.com/neural-aashish/fruit-ninja">
-  <img src="https://img.shields.io/badge/🔥_AI_Fruit_Ninja_Game-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<sub>Hand tracking game using OpenCV & MediaPipe</sub>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<a href="https://github.com/neural-aashish/pose-coach">
-  <img src="https://img.shields.io/badge/🧍_Pose_Coach-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<sub>AI posture correction system using computer vision</sub>
-
-</td>
-</tr>
-
-</table>
-
----
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neural-aashish&theme=tokyo-night"/>
-</p>
-<h2 align="center">🐍 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/neural-aashish/neural-aashish/output/github-contribution-grid-snake.svg" width="100%"/>
-</p>
+</body>
+</html>
