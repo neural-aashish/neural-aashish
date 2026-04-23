@@ -1,5 +1,4 @@
 <h1 align="center">Aashish here!!</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&lines=AI+Developer;MERN+Stack+Dev;Future+Engineer;Building+Cool+Stuff" />
 </p>
