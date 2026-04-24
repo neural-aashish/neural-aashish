@@ -12,11 +12,11 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devbytarun&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=neural-aashish&theme=github-dark-blue&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devbytarun&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neural-aashish&theme=github-compact&hide_border=true" />
 
 </div>
 
