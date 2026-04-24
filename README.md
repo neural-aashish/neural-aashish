@@ -61,7 +61,3 @@ Constantly improving
 </div>
 
 ---
-
-**Stay low. Keep building.**
-
-</div>
