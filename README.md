@@ -48,7 +48,15 @@ Constantly improving
   <img src="https://img.shields.io/badge/Camera_Puzzle_Game-39FF14?style=for-the-badge&logo=tensorflow&logoColor=black" />
 </a>
 ---
+<br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devbytarun&theme=github-dark-blue&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devbytarun&theme=github-compact&hide_border=true" />
+
+</div>
 ### 🐍 Neural Activity
 
 <img src="https://raw.githubusercontent.com/neural-aashish/neural-aashish/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
