@@ -59,5 +59,3 @@ Constantly improving
 <img src="https://raw.githubusercontent.com/neural-aashish/neural-aashish/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
----
