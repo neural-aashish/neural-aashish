@@ -10,8 +10,15 @@
 
 ### ⚡ Dashboard Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=neural-aashish&show_icons=true&theme=tokyonight&hide_border=true&title_color=39FF14&text_color=ffffff&icon_color=39FF14" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=neural-aashish&theme=tokyonight&hide_border=true&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakNum=39FF14" alt="GitHub Streak" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devbytarun&theme=github-dark-blue&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devbytarun&theme=github-compact&hide_border=true" />
+
+</div>
 
 ### 📊 Contribution Flow
 
@@ -48,15 +55,7 @@ Constantly improving
   <img src="https://img.shields.io/badge/Camera_Puzzle_Game-39FF14?style=for-the-badge&logo=tensorflow&logoColor=black" />
 </a>
 ---
-<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devbytarun&theme=github-dark-blue&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devbytarun&theme=github-compact&hide_border=true" />
-
-</div>
 ### 🐍 Neural Activity
 
 <img src="https://raw.githubusercontent.com/neural-aashish/neural-aashish/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
