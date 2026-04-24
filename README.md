@@ -56,7 +56,7 @@ Constantly improving
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Harkiratcodess/Harkiratcodess/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/neural-aashish/neural-aashish/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
