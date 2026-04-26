@@ -1,7 +1,7 @@
 <div align="center">   
 
 
-# Neural Aashish
+# Neural Aashish  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=neural-aashish&color=39FF14&style=flat-square)
 
