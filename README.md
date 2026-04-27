@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=neural-aashish&color=39FF14&style=flat-square)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Building+the+Future;AI+|+Code+|+Clean+UI;Always+Learning+⚡" alt="Typing Animation" />
-
+                            
 ---
 
 ### ⚡ Dashboard Statistics
